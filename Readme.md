@@ -1,8 +1,9 @@
-# Text to artistic image generation
+# Text to artistic image generation 
+### [See on ArXiv](https://arxiv.org/abs/2205.02439)
 
 ## Introduction
 
-This project page provides code that helps you to generate artistic from text description
+This project page provides code that helps you to generate artistic from text description.
 
 ## How to use
 
